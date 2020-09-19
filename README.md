@@ -7,5 +7,3 @@ Note: More work would need to be done to make such custom element SEO-friendly, 
 https://medium.com/patternfly-elements/web-components-and-seo-58227413e072
 
 https://www.searchenginejournal.com/shadow-dom/353644/#ok
-
-I also don't know how Facebook's Open Graph bot or Twitter's Cards bot would handle those.
